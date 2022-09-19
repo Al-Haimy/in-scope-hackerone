@@ -15,6 +15,6 @@ python in-scope.py -t <target program name>
 
  here you can find the program name 
  
- ![alt text](https://github.com/Al-Haimy/in-scope-hackerone/Schreenshots_1.png)
+ ![alt text](https://github.com/Al-Haimy/in-scope-hackerone/raw/main/Screenshot_1.png)
   
   
